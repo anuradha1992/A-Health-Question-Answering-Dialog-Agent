@@ -1,1 +1,6 @@
-# A-Health-Question-Answering-Dialog-Agent
+# A Consumer Health Question-Answering Dialog Agent
+
+Consumers struggle to find reliable and succinct answers for their health queries by having to traverse through long lists of documents returned by traditional search engines. Automated consumer health question answering systems address this concern by providing direct and concise answers to consumer health questions. Consumer health questions tend to contain a lot of ambiguities due to the gap between consumer health vocabulary and medical terminology. But existing systems are mostly non-interactive and limit in their ability to resolve ambiguities present in consumer queries by interactively conversing with the user. They also lack in emotion-aware capabilities to respond to consumer health questions in a natural and empathetic manner. 
+
+We present EMA (Empathetic Medical Agent) that can succinctly answer consumer health questions in a conversational manner. It is capable of interactively engaging with the user to
+resolve any ambiguities detected in consumer queries, enabling it to provide direct and concise answers to the questions asked. We also present our plan on extending the capabilities of EMA to respond in an emotion-aware empathetic manner, making the interaction more natural and human-like.
